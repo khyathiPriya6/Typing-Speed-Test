@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: linear-gradient(to right, #f3eaff, #dac0ff);
+    background-size: cover;
+    padding: 20px;
+}
+
+.type-test-heading {
+    color: #690cb0;
+    font-size: 55px;
+    font-family: Roboto;
+    font-weight: 900;
+
+}
+
+.text-para {
+    color: #3e4c59;
+}
+
+.img-style {
+    width: 55px;
+    height: 55px;
+    margin: 10px;
+    margin-right: 40px;
+}
+
+.count-down-style {
+    font-size: 25px;
+
+}
+
+.quote-style {
+    font-size: 20px;
+}
+
+.text-container {
+    background-color: #f2ebfe;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 30px;
+}
+
+.submit-btn {
+    background-color: #690cb0;
+    border-width: 0px;
+    font-weight: 500;
+    margin: 5px;
+    margin-left: 20px;
+}
+
+.reset-btn {
+    background-color: #f2ebfe;
+    border-width: 0px;
+    color: black;
+    font-weight: 500;
+    margin: 5px;
+    margin-left: 20px;
+
+}
